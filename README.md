@@ -24,5 +24,16 @@ multiplicacao = selecao_carro * selecao_dias
 multiplicacao2 = multiplicacao * 100
 print("O valor que você vai pgar é:", multiplicacao2)
 
+3) Leia do teclado a temperatura em Celsius e imprima o
+equivalente em Fahrenheit.
+
+Reposta:
+temperatura = float(input("digite a temperatura em celcios: "))
+divisao = 9 / 5
+farenheit = (temperatura * divisao)+ 32
+print("a temperatura em farenheit é: ", farenheit)
+
+
+
 
 
