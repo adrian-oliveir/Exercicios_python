@@ -1,4 +1,4 @@
-# Exercicios_pytho
+# Exercicios_python
 Esses são os meus exercícios em python para praticar minha lógica de programação.
 
 1) Escreva um algoritmo em Python para calcular a idade de
